@@ -1,0 +1,7 @@
+D:\VisStudProjs\SpisokDel\SpisokDel\bin\Debug\SpisokDel.exe.config
+D:\VisStudProjs\SpisokDel\SpisokDel\bin\Debug\SpisokDel.exe
+D:\VisStudProjs\SpisokDel\SpisokDel\bin\Debug\SpisokDel.pdb
+D:\VisStudProjs\SpisokDel\SpisokDel\obj\Debug\SpisokDel.csprojResolveAssemblyReference.cache
+D:\VisStudProjs\SpisokDel\SpisokDel\obj\Debug\SpisokDel.exe
+D:\VisStudProjs\SpisokDel\SpisokDel\obj\Debug\SpisokDel.pdb
+D:\VisStudProjs\SpisokDel\SpisokDel\bin\Debug\MySql.Data.dll

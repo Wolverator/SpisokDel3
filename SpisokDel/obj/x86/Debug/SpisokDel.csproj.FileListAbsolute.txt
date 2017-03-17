@@ -1,0 +1,5 @@
+D:\VisStudProjs\SpisokDel\SpisokDel\bin\x86\Debug\SpisokDel.exe.config
+D:\VisStudProjs\SpisokDel\SpisokDel\bin\x86\Debug\SpisokDel.exe
+D:\VisStudProjs\SpisokDel\SpisokDel\bin\x86\Debug\SpisokDel.pdb
+D:\VisStudProjs\SpisokDel\SpisokDel\obj\x86\Debug\SpisokDel.exe
+D:\VisStudProjs\SpisokDel\SpisokDel\obj\x86\Debug\SpisokDel.pdb
